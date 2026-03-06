@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description": "Generate dashboard for Kindle",
   "dependencies": {
-    "puppeteer": "^21.0.0"
+    "puppeteer": "^24.0.0"
   }
 }
